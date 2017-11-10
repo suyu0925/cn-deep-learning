@@ -10,6 +10,10 @@ lib64
 parts
 sdist
 var
+tensorflow
+__pycache__
+.ipynb_checkpoints
+.vscode
 
 # Don't upload local data to Floyd
 checkpoint
@@ -21,3 +25,4 @@ image_classification.meta
 preprocess_batch_*.p
 preprocess_training.p
 preprocess_validation.p
+preprocess_test.p
