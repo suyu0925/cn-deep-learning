@@ -1,0 +1,13 @@
+name: ml
+
+dependencies:
+  - python=3.5
+  - numpy
+  - tensorflow-gpu
+  - pandas
+  - matplotlib
+  - jupyter
+  - tqdm
+  - scipy
+  - scikit-learn
+  - scikit-image
