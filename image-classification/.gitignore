@@ -19,3 +19,20 @@ tensorflow/
 ## pyc
 __pycache__
 *.pyc
+
+## lab
+lab
+
+## submit
+dlnd_image_classification.html
+dlnd_image_classification.py
+image-classification.zip
+
+## saved model and trainning data
+image_classification.data*
+image_classification.index
+image_classification.meta
+
+## notebook checkpoint
+checkpoint
+.ipynb_checkpoints
