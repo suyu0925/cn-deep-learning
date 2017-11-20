@@ -1,0 +1,6 @@
+data
+__pycache__
+.ipynb_checkpoints
+dlnd_face_generation.html
+dlnd_face_generation.py
+face-generation.zip
